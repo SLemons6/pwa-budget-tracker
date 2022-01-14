@@ -13,6 +13,10 @@ Budget Tracker is a Progressive Web Application that allows users to monitor tra
 
 ## Website/ Links: 
 
-
+Heroku: https://slemonsbudgettracker.herokuapp.com/
 
 <img src="./assets/images/screenshot.jpg" alt="screenshot of budget tracker website" />
+
+## Credit:
+
+Created by Shayne Lemons
